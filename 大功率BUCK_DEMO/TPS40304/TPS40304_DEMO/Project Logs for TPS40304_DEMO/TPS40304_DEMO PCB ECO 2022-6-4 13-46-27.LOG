@@ -1,0 +1,4 @@
+Added Component: Designator=SW1(SS12_d06)
+Added Pin To Net: NetName=NetJP1_1 Pin=SW1-2
+Added Pin To Net: NetName=VCC Pin=SW1-3
+Added Member To Class: ClassName=TPS40304_DEMO Member=Component SW1 SS12D06(Íä½Ç²¦¶¯¿ª¹Ø) COPY

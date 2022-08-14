@@ -1,0 +1,16 @@
+Added Component: Designator=U1(WSON-10_L3.0-W3.0-P0.50-TL-EP)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS40304DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TPS40304DRCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=NetCss_1 Pin=U1-2
+Added Pin To Net: NetName=NetRpgood_2 Pin=U1-3
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U1-4
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U1-5
+Added Pin To Net: NetName=NetRboot_1 Pin=U1-6
+Added Pin To Net: NetName=NetQ1_4 Pin=U1-7
+Added Pin To Net: NetName=NetCbst_2 Pin=U1-8
+Added Pin To Net: NetName=NetQ2_4 Pin=U1-9
+Added Pin To Net: NetName=NetCbyp_1 Pin=U1-10
+Added Pin To Net: NetName=0 Pin=U1-11

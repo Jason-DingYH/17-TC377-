@@ -1,0 +1,21 @@
+Added Component: Designator=C1(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(HDR2.54-LI-8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=3.3V Pin=JP1-2
+Added Pin To Net: NetName=P15_3 Pin=JP1-3
+Added Pin To Net: NetName=P15_5 Pin=JP1-4
+Added Pin To Net: NetName=P15_1 Pin=JP1-5
+Added Pin To Net: NetName=P15_0 Pin=JP1-6
+Added Pin To Net: NetName=P15_2 Pin=JP1-7
+Added Pin To Net: NetName=ATOM1_CH7_P15_4 Pin=JP1-8
+Added Member To Class: ClassName=UI Member=Component C1 100NF
+Added Member To Class: ClassName=UI Member=Component JP1 HDR-1X8

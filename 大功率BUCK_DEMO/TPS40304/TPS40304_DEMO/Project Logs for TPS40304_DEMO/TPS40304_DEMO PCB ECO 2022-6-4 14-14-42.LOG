@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetCbst_1 Pin=U1-6
+Added Component: Designator=Rboot(R 0805_L)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW04022K87FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW04022K87FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCbst_1 Pin=Rboot-2
+Added Pin To Net: NetName=NetRboot_1 Pin=Rboot-1
+Added Pin To Net: NetName=NetRboot_1 Pin=U1-6
+Added Net: Name=NetRboot_1
+Added Member To Class: ClassName=TPS40304_DEMO Member=Component Rboot CRCW04022K87FKED

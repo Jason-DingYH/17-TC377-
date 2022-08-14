@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=BAT.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BAT.SchDoc|FileName=MOTOR_DRV.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BAT.SchDoc|FileName=OTHER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BAT.SchDoc|FileName=TC377TP_1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BAT.SchDoc|FileName=TC377TP_2.SchDoc|SheetNumber=5
